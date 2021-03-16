@@ -7,7 +7,7 @@ const video = {
   upvotes: 9210,
   downvotes: 185,
   comments: [
-    {
+     {
       id: 1,
       user: "duanebot",
       comment: "first!",
